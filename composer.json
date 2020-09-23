@@ -1,10 +1,10 @@
 {
-    "name": "codicastudio/adminbadgefield",
+    "name": "codica-studio/adminbadgefield",
     "description": "A random Codica Studio package.",
     "keywords": [
         ""
     ],
-    "homepage": "https://github.com/codicastudio/adminbadgefield",
+    "homepage": "https://github.com/codica-studio/adminbadgefield",
     "license": "MIT",
     "authors": [
         {
