@@ -1,8 +1,8 @@
 {
-    "name": "codica-studio/adminbadgefield",
+    "name": "codicastudio/badge-field",
     "description": "A random Codica Studio package.",
 
-    "homepage": "https://github.com/codicastudio/adminbadgefield",
+    "homepage": "https://github.com/codicastudio/badge-field",
     "license": "MIT",
     "authors": [
         {
@@ -31,6 +31,6 @@
     "config": {
         "sort-packages": true
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "prefer-stable": true
 }
